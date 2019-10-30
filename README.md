@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## The Inspection Paradox
 
-You can use the [editor on GitHub](https://github.com/AllenDowney/InspectionParadox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you for coming to my talk.  Please follow these instructions:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [Click here to participate in a one-question survey](https://forms.gle/DWNwV7FVkYv25mCH6)
 
-### Markdown
+2. [Click here to run a Jupyter notebook and analyze the results](https://colab.research.google.com/github/AllenDowney/InspectionParadox/blob/master/inspection.ipynb)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. [Follow along with the slides](https://docs.google.com/presentation/d/1Z8xWPwomEDrQU4yeJZh8LdPOx71sJVa84p-ND5Ef3k8/edit?usp=sharing).  If you can't view the slides on Google, I will post a PDF version after the talk.
 
-```markdown
-Syntax highlighted code block
+After the talk: 
 
-# Header 1
-## Header 2
-### Header 3
+1. [You can read my article about the Inspection Paradox](https://towardsdatascience.com/the-inspection-paradox-is-everywhere-2ef1c2e9d709?source=friends_link&sk=a38a2925e44f481d27e5b2452128716a)
 
-- Bulleted
-- List
+2. If the empiricaldist library might be useful to you, [you can see the documentation here](https://nbviewer.jupyter.org/github/AllenDowney/empiricaldist/blob/master/empiricaldist/dist_demo.ipynb).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AllenDowney/InspectionParadox/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3. If you would like to read more about computational statistics, [check out the second edition of Think Stats](https://greenteapress.com/wp/think-stats-2e/).
