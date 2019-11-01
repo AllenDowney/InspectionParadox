@@ -1,0 +1,21 @@
+name: InspectionParadox
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyter
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - lxml
+  - beautifulsoup4
+  - html5lib
+  - networkx
+  - scipy
+  - pip
+  - pip:
+    - empiricaldist
+
+
+
