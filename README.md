@@ -15,3 +15,5 @@ After the talk:
 2. If the empiricaldist library might be useful to you, [you can see the documentation here](https://nbviewer.jupyter.org/github/AllenDowney/empiricaldist/blob/master/empiricaldist/dist_demo.ipynb).
 
 3. If you would like to read more about computational statistics, [check out the second edition of Think Stats](https://greenteapress.com/wp/think-stats-2e/).
+
+4. And [here's the video](https://www.youtube.com/watch?v=cXWTHfvycyM)!
