@@ -6,7 +6,7 @@ Thank you for coming to my talk.  Please follow these instructions:
 
 2. [Click here to run a Jupyter notebook and analyze the results](https://colab.research.google.com/github/AllenDowney/InspectionParadox/blob/master/inspection.ipynb)
 
-3. [Follow along with the slides](https://docs.google.com/presentation/d/1Z8xWPwomEDrQU4yeJZh8LdPOx71sJVa84p-ND5Ef3k8/edit?usp=sharing).  If you can't view the slides on Google, [you can get the PDF version here](https://github.com/AllenDowney/InspectionParadox/raw/master/The%20Inspection%20Paradox%20is%20Everywhere%20PyData%20NYC%202019.pdf).
+3. [Follow along with the slides](https://docs.google.com/presentation/d/e/2PACX-1vSFXBa1WlnmIt4pcRHt6TlBT69gDByEJKTCHZ_m-DpqFb9YIy-umAM_bKPvSAGIHsiOc3B6pn8SlNpe/pub).  If you can't view the slides on Google, [you can get the PDF version here](https://github.com/AllenDowney/InspectionParadox/raw/master/The%20Inspection%20Paradox%20is%20Everywhere%20PyData%20NYC%202019.pdf).
 
 After the talk: 
 
